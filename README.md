@@ -97,15 +97,15 @@ We used the KMeans algorithm for clustering and analyzed the optimal number of c
 
 - **Elbow Graph**:
   This graph helped determine the ideal number of clusters for KMeans by identifying the "elbow" point.
-  <img src="images/Elbow.png" width="300" alt="Elbow Graph for KMeans Clustering">
+  <img src="images/Elbow.png" width="350" alt="Elbow Graph for KMeans Clustering">
 
 - **KMeans Clustering**:
   The visualization below showcases the data clustered using the KMeans algorithm.
-  <img src="images/cluster.png" width="300" alt="KMeans Clustering Visualization">
+  <img src="images/cluster.png" width="400" alt="KMeans Clustering Visualization">
 
 - **t-SNE Clustering**:
   To further analyze our data's structure, we used t-SNE, which provided the following clustering visualization.
-  <img src="images/tSNE_Clustereing.png" width="300" alt="t-SNE Clustering Visualization">
+  <img src="images/tSNE_Clustereing.png" width="450" alt="t-SNE Clustering Visualization">
 
 ### Model Summary & Output
 
