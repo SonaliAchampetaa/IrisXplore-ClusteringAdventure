@@ -88,7 +88,12 @@ Our model's performance was monitored across multiple epochs, revealing importan
 ### Clustering Analysis
 **Elbow Graph**:
 In clustering, the elbow graph helps determine the ideal number of clusters. The point where the graph starts leveling off (the "elbow") suggests the optimal number of clusters for the KMeans algorithm, ensuring minimal intra-cluster distance and maximum inter-cluster separation.
+
+
 <img src="images/Elbow.png" width="350" alt="Elbow Graph for KMeans Clustering">
+
+
+
 We employed the KMeans algorithm for clustering and evaluated the optimal cluster count. Additionally, the t-SNE approach provided insights into inherent data groupings:
 
 | **KMeans Clustering** | **t-SNE Clustering** |
