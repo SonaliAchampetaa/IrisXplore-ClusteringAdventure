@@ -85,30 +85,21 @@ Our model's performance was monitored across multiple epochs, revealing importan
 
 | **Accuracy Over Epochs** | **Loss Over Epochs** |
 |:------------------------:|:--------------------:|
-| <img src="images/Accuracy.png" width="350" alt="Accuracy over Epochs"> | <img src="images/Model_Loss.png" width="350" alt="Loss over Epochs"> |
+| <img src="images/Accuracy.png" width="450" alt="Accuracy over Epochs"> | <img src="images/Model_Loss.png" width="450" alt="Loss over Epochs"> |
 | The accuracy graph demonstrates the model's proficiency in recognizing patterns in the training data throughout its training process. | The loss graph illustrates the degree of deviation between the model's predictions and the actual values. A downward trend indicates increasing precision. |
 
 
 
 ### Clustering Analysis
+**Elbow Graph**:
+In clustering, the elbow graph helps determine the ideal number of clusters. The point where the graph starts leveling off (the "elbow") suggests the optimal number of clusters for the KMeans algorithm, ensuring minimal intra-cluster distance and maximum inter-cluster separation.
+<img src="images/Elbow.png" width="350" alt="Elbow Graph for KMeans Clustering">
+We employed the KMeans algorithm for clustering and evaluated the optimal cluster count. Additionally, the t-SNE approach provided insights into inherent data groupings:
 
-We used the KMeans algorithm for clustering and analyzed the optimal number of clusters:
-
-- **Elbow Graph**:
-  This graph helped determine the ideal number of clusters for KMeans by identifying the "elbow" point.
-
-  <img src="images/Elbow.png" width="400" alt="Elbow Graph for KMeans Clustering">
-
-- **KMeans Clustering**:
-  The visualization below showcases the data clustered using the KMeans algorithm.
-  
-  <img src="images/cluster.png" width="400" alt="KMeans Clustering Visualization">
-
-- **t-SNE Clustering**:
-  To further analyze our data's structure, we used t-SNE, which provided the following clustering visualization.
-
-  
-  <img src="images/tSNE_Clustereing.png" width="450" alt="t-SNE Clustering Visualization">
+| **KMeans Clustering** | **t-SNE Clustering** |
+|:---------------------:|:--------------------:|
+| <img src="images/cluster.png" width="450" alt="KMeans Clustering Visualization"> | <img src="images/tSNE_Clustering.png" width="450" alt="t-SNE Clustering Visualization"> |
+| The KMeans visualization showcases data points grouped based on their shared features. | t-SNE offers a 2D or 3D representation from high-dimensional data, highlighting any intrinsic clusters within the dataset. |
 
 ### Model Summary & Output
 
