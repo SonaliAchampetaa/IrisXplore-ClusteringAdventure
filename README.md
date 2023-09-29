@@ -85,7 +85,7 @@ Our model's performance was monitored across multiple epochs, revealing importan
 
 | **Accuracy Over Epochs** | **Loss Over Epochs** |
 |:------------------------:|:--------------------:|
-| <img src="images/Accuracy.png" width="250" alt="Accuracy over Epochs"> | <img src="images/Model_Loss.png" width="250" alt="Loss over Epochs"> |
+| <img src="images/Accuracy.png" width="350" alt="Accuracy over Epochs"> | <img src="images/Model_Loss.png" width="350" alt="Loss over Epochs"> |
 | The accuracy graph demonstrates the model's proficiency in recognizing patterns in the training data throughout its training process. | The loss graph illustrates the degree of deviation between the model's predictions and the actual values. A downward trend indicates increasing precision. |
 
 
