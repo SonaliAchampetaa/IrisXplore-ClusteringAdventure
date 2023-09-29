@@ -26,3 +26,6 @@ These instructions will guide you on setting up the project locally. To get the 
 git clone [Your Repository Link]
 cd [Repository Name]
 pip install -r requirements.txt
+
+## Dataset
+The project uses the CASIA-Iris-Thousand(http://biometrics.idealtest.org/). Briefly describe the dataset, its structure, and its significance.
