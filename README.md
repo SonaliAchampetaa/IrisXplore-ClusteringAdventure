@@ -75,4 +75,54 @@ Our iris recognition model leverages a sequential architecture tailored for feat
 
 The model is trained over 20 epochs with a batch size of 64, using both training and validation datasets to monitor and validate its performance throughout the training process.
 
+## Results
+
+Our deep learning model for iris recognition, combined with clustering techniques, yielded significant insights and demonstrated notable performance. This section provides a visual summary of our results.
+
+### Performance Metrics
+
+Our model's performance was gauged across several epochs, revealing trends in accuracy and loss:
+
+- **Accuracy Over Epochs**:
+  Here's a visual representation of how the model's accuracy progressed over the epochs.
+  <imag src="images/Accuracy.png" width="500" alt="Accuracy over Epochs">
+
+- **Loss Over Epochs**:
+  The following graph demonstrates the model's loss trend across the epochs.
+  <img src="images/Model_Loss.png" width="500" alt="Loss over Epochs">
+
+### Clustering Analysis
+
+We used the KMeans algorithm for clustering and analyzed the optimal number of clusters:
+
+- **Elbow Graph**:
+  This graph helped determine the ideal number of clusters for KMeans by identifying the "elbow" point.
+  <img src="images/Elbow.png" width="500" alt="Elbow Graph for KMeans Clustering">
+
+- **KMeans Clustering**:
+  The visualization below showcases the data clustered using the KMeans algorithm.
+  <img src="images/cluster.png" width="500" alt="KMeans Clustering Visualization">
+
+- **t-SNE Clustering**:
+  To further analyze our data's structure, we used t-SNE, which provided the following clustering visualization.
+  <img src="images/tSNE_clustereing.png" width="500" alt="t-SNE Clustering Visualization">
+
+### Model Summary & Output
+
+- **Model Architecture Summary**:
+  The architecture and layers of our model are depicted below:
+  <img src="images/Model_Summary.png" width="500" alt="Model Summary">
+
+- **Model Output**:
+  After training, our model was able to produce the following outputs:
+  <img src="images/Output_Iris.png" width="500" alt="Model Output Results">
+
+### Additional Metrics
+
+For a comprehensive understanding of the model's performance, we also reviewed various metrics:
+  <img src="images/Model_Metrics.png" width="500" alt="Additional Performance Metrics">
+
+```
+
+
 
