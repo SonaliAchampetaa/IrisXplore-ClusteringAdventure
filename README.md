@@ -116,6 +116,9 @@ We employed the KMeans algorithm for clustering and evaluated the optimal cluste
 For a comprehensive understanding of the model's performance, we also reviewed various metrics:
   <img src="images/Model_Metrics.png" width="400" alt="Additional Performance Metrics">
 
+In conclusion, the results generated from this project underscore the potential and robustness of deep learning in iris recognition tasks. By synergizing feature extraction with advanced clustering techniques, we've achieved significant improvements in accuracy and model performance. The visualizations, ranging from accuracy trends to intricate clustering patterns, paint a comprehensive picture of the model's journey and its capabilities. Such findings not only validate the methods employed but also pave the way for future advancements in the realm of biometric recognition. Our hope is that this work serves as a foundation and inspiration for researchers and practitioners looking to push the boundaries of what's possible in iris recognition and similar applications.
+  
+
 ```
 
 
