@@ -81,6 +81,18 @@ Our deep learning model for iris recognition, combined with clustering technique
 
 ### Performance Metrics
 
+Our model's performance was monitored across multiple epochs, revealing important trends in both accuracy and loss:
+
+| **Accuracy Over Epochs** | **Loss Over Epochs** |
+|:------------------------:|:--------------------:|
+| <img src="images/Accuracy.png" width="250" alt="Accuracy over Epochs"> | <img src="images/Model_Loss.png" width="250" alt="Loss over Epochs"> |
+| The accuracy graph demonstrates the model's proficiency in recognizing patterns in the training data throughout its training process. | The loss graph illustrates the degree of deviation between the model's predictions and the actual values. A downward trend indicates increasing precision. |
+
+
+
+
+### Performance Metrics
+
 Our model's performance was gauged across several epochs, revealing trends in accuracy and loss:
 
 - **Accuracy Over Epochs**:
@@ -89,7 +101,7 @@ Our model's performance was gauged across several epochs, revealing trends in ac
 
 - **Loss Over Epochs**:
   The following graph demonstrates the model's loss trend across the epochs.
-  <img src="images/Model_Loss.png" width="400" alt="Loss over Epochs">
+  <img src="images/" width="400" alt="Loss over Epochs">
 
 ### Clustering Analysis
 
