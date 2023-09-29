@@ -25,14 +25,17 @@ This project is implemented on Kaggle, a popular platform for data science and m
 
 ### Libraries Used
 
-The project primarily uses the following libraries:
-- `tensorflow` for building and training the deep learning model.
-- `numpy` for numerical operations.
-- *(Add any other significant libraries or dependencies here)*
+The project makes use of a number of powerful libraries, including:
+
+- `tensorflow`: For building and training the deep learning model.
+- `numpy`: For numerical operations.
+- `sklearn`: For clustering (KMeans), dimensionality reduction (PCA), and manifold learning (TSNE).
+- `matplotlib`: For data visualization and plotting.
+- `tensorflow.keras.utils`: Specifically, the `to_categorical` function for one-hot encoding.
 
 ### Running the Code
 
-- Once in the Kernel, you can run the code cells sequentially using the play button or use the "Run All" option to execute all cells.
+- Once in the Kernel, you can run the code cells sequentially using the  "Run All" option to execute all cells.
 - Kaggle provides an interactive environment, so you can modify the code and view the results in real-time.
 
 
