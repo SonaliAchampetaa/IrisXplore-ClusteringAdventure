@@ -85,7 +85,7 @@ Our model's performance was gauged across several epochs, revealing trends in ac
 
 - **Accuracy Over Epochs**:
   Here's a visual representation of how the model's accuracy progressed over the epochs.
-  <imag src="images/Accuracy.png" width="200" alt="Accuracy over Epochs">
+  <img src="images/Accuracy.png" width="200" alt="Accuracy over Epochs">
 
 - **Loss Over Epochs**:
   The following graph demonstrates the model's loss trend across the epochs.
