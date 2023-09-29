@@ -6,12 +6,7 @@ An innovative deep learning solution for iris recognition, synergizing feature e
 - [Getting Started](#getting-started)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
