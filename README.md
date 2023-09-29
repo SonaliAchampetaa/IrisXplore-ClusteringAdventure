@@ -98,7 +98,7 @@ We employed the KMeans algorithm for clustering and evaluated the optimal cluste
 
 | **KMeans Clustering** | **t-SNE Clustering** |
 |:---------------------:|:--------------------:|
-| <img src="images/cluster.png" width="450" alt="KMeans Clustering Visualization"> | <img src="images/tSNE_Clustereing.png" width="450" alt="t-SNE Clustering Visualization"> |
+| <img src="images/cluster.png" width="450" alt="KMeans Clustering Visualization"> | <img src="images/tSNE_Clustereing.png" width="350" alt="t-SNE Clustering Visualization"> |
 | The KMeans visualization showcases data points grouped based on their shared features. | t-SNE offers a 2D or 3D representation from high-dimensional data, highlighting any intrinsic clusters within the dataset. |
 
 ### Model Summary & Output
