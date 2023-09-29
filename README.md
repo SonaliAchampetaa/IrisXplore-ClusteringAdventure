@@ -90,19 +90,6 @@ Our model's performance was monitored across multiple epochs, revealing importan
 
 
 
-
-### Performance Metrics
-
-Our model's performance was gauged across several epochs, revealing trends in accuracy and loss:
-
-- **Accuracy Over Epochs**:
-  Here's a visual representation of how the model's accuracy progressed over the epochs.
-  <img src="images/Accuracy.png" width="400" alt="Accuracy over Epochs">
-
-- **Loss Over Epochs**:
-  The following graph demonstrates the model's loss trend across the epochs.
-  <img src="images/" width="400" alt="Loss over Epochs">
-
 ### Clustering Analysis
 
 We used the KMeans algorithm for clustering and analyzed the optimal number of clusters:
