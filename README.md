@@ -85,11 +85,11 @@ Our model's performance was gauged across several epochs, revealing trends in ac
 
 - **Accuracy Over Epochs**:
   Here's a visual representation of how the model's accuracy progressed over the epochs.
-  <imag src="images/Accuracy.png" width="500" alt="Accuracy over Epochs">
+  <imag src="images/Accuracy.png" width="200" alt="Accuracy over Epochs">
 
 - **Loss Over Epochs**:
   The following graph demonstrates the model's loss trend across the epochs.
-  <img src="images/Model_Loss.png" width="500" alt="Loss over Epochs">
+  <img src="images/Model_Loss.png" width="200" alt="Loss over Epochs">
 
 ### Clustering Analysis
 
@@ -97,30 +97,30 @@ We used the KMeans algorithm for clustering and analyzed the optimal number of c
 
 - **Elbow Graph**:
   This graph helped determine the ideal number of clusters for KMeans by identifying the "elbow" point.
-  <img src="images/Elbow.png" width="500" alt="Elbow Graph for KMeans Clustering">
+  <img src="images/Elbow.png" width="200" alt="Elbow Graph for KMeans Clustering">
 
 - **KMeans Clustering**:
   The visualization below showcases the data clustered using the KMeans algorithm.
-  <img src="images/cluster.png" width="500" alt="KMeans Clustering Visualization">
+  <img src="images/cluster.png" width="200" alt="KMeans Clustering Visualization">
 
 - **t-SNE Clustering**:
   To further analyze our data's structure, we used t-SNE, which provided the following clustering visualization.
-  <img src="images/tSNE_clustereing.png" width="500" alt="t-SNE Clustering Visualization">
+  <img src="images/tSNE_clustereing.png" width="200" alt="t-SNE Clustering Visualization">
 
 ### Model Summary & Output
 
 - **Model Architecture Summary**:
   The architecture and layers of our model are depicted below:
-  <img src="images/Model_Summary.png" width="500" alt="Model Summary">
+  <img src="images/Model_Summary.png" width="200" alt="Model Summary">
 
 - **Model Output**:
   After training, our model was able to produce the following outputs:
-  <img src="images/Output_Iris.png" width="500" alt="Model Output Results">
+  <img src="images/Output_Iris.png" width="200" alt="Model Output Results">
 
 ### Additional Metrics
 
 For a comprehensive understanding of the model's performance, we also reviewed various metrics:
-  <img src="images/Model_Metrics.png" width="500" alt="Additional Performance Metrics">
+  <img src="images/Model_Metrics.png" width="200" alt="Additional Performance Metrics">
 
 ```
 
