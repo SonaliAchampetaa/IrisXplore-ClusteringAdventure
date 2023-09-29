@@ -105,7 +105,7 @@ We used the KMeans algorithm for clustering and analyzed the optimal number of c
 
 - **t-SNE Clustering**:
   To further analyze our data's structure, we used t-SNE, which provided the following clustering visualization.
-  <img src="images/tSNE_clustereing.png" width="200" alt="t-SNE Clustering Visualization">
+  <img src="images/tSNE_Clustereing.png" width="200" alt="t-SNE Clustering Visualization">
 
 ### Model Summary & Output
 
