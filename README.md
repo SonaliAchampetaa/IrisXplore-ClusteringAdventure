@@ -15,7 +15,7 @@ This project is implemented on Kaggle, a popular platform for data science and m
 ### Prerequisites
 
 - Create a Kaggle(https://www.kaggle.com/) account .
-- Interactive code execution and exploration are possible with notebooks.
+- Familiarize yourself with Kaggle Notebooks, which allow for interactive code execution and exploration. It's the primary medium we've employed for this project, ensuring a hands-on experience with the datasets and algorithms.
 
 
 ### Libraries Used
@@ -35,8 +35,12 @@ The project makes use of a number of powerful libraries, including:
 
 
 ## Dataset
-The project uses the CASIA-Iris-Thousand(http://biometrics.idealtest.org/). Briefly describe the dataset, its structure, and its significance.
+The project uses the CASIA-Iris-Thousand(http://biometrics.idealtest.org/). 
+This is a comprehensive iris dataset curated by the Chinese Academy of Sciences' Institute of Automation (CASIA). CASIA-Iris-Thousand is renowned for its diversified samples, which makes it an ideal choice for our deep learning-based iris recognition tasks.
 
+The dataset consists of iris images collected under various conditions, ensuring the robustness of our model against different real-world scenarios. The high-resolution images and the variability in factors like illumination, distance, and gaze direction in this dataset enable the extraction of intricate patterns, crucial for effective iris recognition.
+
+Utilizing such a versatile dataset allows our project to achieve accuracy and ensures that our recognition system is resilient against common challenges posed in biometric identification.
 ## Model Architecture
 
 Our iris recognition model leverages a sequential architecture tailored for feature extraction and advanced clustering. Here's  the architecture:
